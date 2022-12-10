@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzDrink", "EzDrink\EzDrink.csproj", "{7EAD7A8C-6F0B-4ED5-8514-C7A4FF1879A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzDrinkTests", "EzDrinkTests\EzDrinkTests.csproj", "{F4599825-D9BD-4194-98CC-E85DE1ABED23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAD7A8C-6F0B-4ED5-8514-C7A4FF1879A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAD7A8C-6F0B-4ED5-8514-C7A4FF1879A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAD7A8C-6F0B-4ED5-8514-C7A4FF1879A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAD7A8C-6F0B-4ED5-8514-C7A4FF1879A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4599825-D9BD-4194-98CC-E85DE1ABED23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4599825-D9BD-4194-98CC-E85DE1ABED23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4599825-D9BD-4194-98CC-E85DE1ABED23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4599825-D9BD-4194-98CC-E85DE1ABED23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
